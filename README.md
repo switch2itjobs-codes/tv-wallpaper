@@ -1,3 +1,3 @@
 # TV wallpaper
 
-Looping video background for a couch-tv home screen.
+Rotating background photos for a couch-tv home screen.
